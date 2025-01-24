@@ -32,8 +32,27 @@
 
 ![image](https://github.com/user-attachments/assets/f43f7160-dfe4-4c30-98ec-11e7171e16ae)
 
-nmap_scans: Her taramayı kaydeder (Hedef IP, tarama tarihi, tarama tipi).
+* nmap_scans: Her taramayı kaydeder (Hedef IP, tarama tarihi, tarama tipi).
 
-host_results: Taramada bulunan her ana bilgisayarı (IP adresi, durumu vb.) kaydeder.
+* host_results: Taramada bulunan her ana bilgisayarı (IP adresi, durumu vb.) kaydeder.
 
-port_results: Her ana bilgisayardaki port bilgilerini (port numarası, protokol, durum, hizmet, sürüm) saklar.
+* port_results: Her ana bilgisayardaki port bilgilerini (port numarası, protokol, durum, hizmet, sürüm) saklar.
+
+# 4. Tarama Yapma (perform_scan)
+
+![image](https://github.com/user-attachments/assets/30dcd64d-5984-43d5-8a71-bfaba9a0974d)
+
+* Nmap kullanarak belirtilen hedefe tarama yapar.
+
+* Hedef Bilgilerinin Kaydedilmesi:
+
+* nmap_scans tablosuna hedef ve tarama türü kaydedilir.
+
+* Her IP için host_results tablosuna veri eklenir.
+
+* Açık port bilgileri port_results tablosuna kaydedilir.
+
+* Dönen Veri: Şu an results boş dönüyor. İsterseniz tarama sonuçlarını burada döndürebilirsiniz.
+
+
+
