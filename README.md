@@ -7,26 +7,26 @@
 
 * NMAP: Python için Nmap modülü, ağ taramaları yapmak için kullanılıyor.
 
-SQLITE3: Veritabanı işlemleri için SQLite kütüphanesi.
+* SQLITE3: Veritabanı işlemleri için SQLite kütüphanesi.
 
-JSON: Tarama sonuçlarını JSON formatında döndürmek için.
+* JSON: Tarama sonuçlarını JSON formatında döndürmek için.
 
-PANDAS: (Şu an kullanılmamış) İleride veritabanı sonuçlarını veri analizi için kullanabilirsiniz.
+* PANDAS: (Şu an kullanılmamış) İleride veritabanı sonuçlarını veri analizi için kullanabilirsiniz.
 
-TYPING: Yazılımda tür ipuçları sağlamak için
+* TYPING: Yazılımda tür ipuçları sağlamak için
 
 
 # 2- NmapAnalyzer Sınıfının Tanımlanması
 
 ![image](https://github.com/user-attachments/assets/319bf243-18f6-41ac-95ec-36134a2fa950)
 
-NmapAnalyzer sınıfı, tüm tarama ve analiz işlemlerini kapsar.
+* NmapAnalyzer sınıfı, tüm tarama ve analiz işlemlerini kapsar.
 
-__init__ Metodu:
+* __init__ Metodu:
 
-Varsayılan olarak nmap_results.db isimli SQLite veritabanını oluşturur veya bağlanır.
+* Varsayılan olarak nmap_results.db isimli SQLite veritabanını oluşturur veya bağlanır.
 
-_create_tables metodu çağrılarak gerekli veritabanı tabloları oluşturulur.
+* _create_tables metodu çağrılarak gerekli veritabanı tabloları oluşturulur.
 
 # 3- Veritabanı Tablolarının Oluşturulması
 
