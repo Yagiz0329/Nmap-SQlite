@@ -7,12 +7,10 @@
 
 NMAP: Python için Nmap modülü, ağ taramaları yapmak için kullanılıyor.
 
-SQLİTE3: Veritabanı işlemleri için SQLite kütüphanesi.
+SQLITE3: Veritabanı işlemleri için SQLite kütüphanesi.
 
 JSON: Tarama sonuçlarını JSON formatında döndürmek için.
 
-PANDAS: (Şu an kullanılmamış) İleride veritabanı sonuçlarını veri 
-
-analizi için kullanabilirsiniz.
+PANDAS: (Şu an kullanılmamış) İleride veritabanı sonuçlarını veri analizi için kullanabilirsiniz.
 
 TYPING: Yazılımda tür ipuçları sağlamak için
