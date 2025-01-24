@@ -37,6 +37,9 @@ Rapor oluşturun:
 
 ![image](https://github.com/user-attachments/assets/cdc55f58-02aa-49ea-aa17-ccb11c99adee)
 
+Örnek JSON çıktısı şu şekilde olacaktır:
+
+![image](https://github.com/user-attachments/assets/ef86f6de-d87e-42c3-b258-68efa3079359)
 
 
 
