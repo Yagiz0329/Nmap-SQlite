@@ -89,4 +89,15 @@ JSON Formatı: Rapor, kolay okunabilir bir JSON formatında döndürülür.
 
 * Veritabanı bağlantısını kapatmak için çağrılır.
 
+# 8- Örnek Kullanım
+
+![image](https://github.com/user-attachments/assets/652c1900-18ce-48c1-8926-f21b50482b61)
+
+* Tarama Yapma: perform_scan metodu ile bir ağ taraması yapılır (örneğin 8.8.8.8/24).
+
+* Rapor Oluşturma: Tarama ID'sine göre rapor JSON formatında oluşturulur.
+
+* Bağlantı Kapatma: Veritabanı bağlantısı kapatılır.
+
+
 
