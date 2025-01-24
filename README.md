@@ -1,6 +1,6 @@
 # Nmap-SQlite
 
-# Gerekli Kütüphanelerin İçe Aktarılması
+1- # Gerekli Kütüphanelerin İçe Aktarılması
 
 ![image](https://github.com/user-attachments/assets/ce885720-230f-4acb-8638-d491fdb55927)
 
