@@ -38,7 +38,7 @@
 
 * port_results: Her ana bilgisayardaki port bilgilerini (port numarası, protokol, durum, hizmet, sürüm) saklar.
 
-# 4. Tarama Yapma (perform_scan)
+# 4- Tarama Yapma (perform_scan)
 
 ![image](https://github.com/user-attachments/assets/30dcd64d-5984-43d5-8a71-bfaba9a0974d)
 
@@ -53,6 +53,19 @@
 * Açık port bilgileri port_results tablosuna kaydedilir.
 
 * Dönen Veri: Şu an results boş dönüyor. İsterseniz tarama sonuçlarını burada döndürebilirsiniz.
+
+# 5- Zafiyet Analizi (analyze_vulnerabilities)
+
+![image](https://github.com/user-attachments/assets/5facd8eb-18b4-40dc-b03e-8973aef1ccf0)
+
+* scan_id parametresi ile belirli bir taramanın açık portlarını kontrol eder.
+
+* Basit Zafiyet Kontrolü:
+
+* Eğer bir portun versiyonu old ya da vulnerable içeriyorsa, bu port "Yüksek Riskli" olarak işaretlenir.
+
+* Daha gelişmiş bir kontrol için CVE (Common Vulnerabilities and Exposures) veritabanı kullanılabilir.
+
 
 
 
