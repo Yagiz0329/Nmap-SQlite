@@ -23,4 +23,12 @@ Nmap Analyzer, ağ taramaları yapmak, sonuçları bir SQLite veritabanında sak
    ```bash
    pip install python-nmap pandas
 
-    
+## Kullanım
+
+NmapAnalyzer sınıfını oluşturun:
+
+![image](https://github.com/user-attachments/assets/45c5e38c-10f2-4564-af0b-03641d24140e)
+
+
+
+
