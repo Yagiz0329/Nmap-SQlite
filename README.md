@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/ce885720-230f-4acb-8638-d491fdb55927)
 
 
-NMAP: Python için Nmap modülü, ağ taramaları yapmak için kullanılıyor.
+* NMAP: Python için Nmap modülü, ağ taramaları yapmak için kullanılıyor.
 
 SQLITE3: Veritabanı işlemleri için SQLite kütüphanesi.
 
