@@ -29,6 +29,15 @@ NmapAnalyzer sınıfını oluşturun:
 
 ![image](https://github.com/user-attachments/assets/45c5e38c-10f2-4564-af0b-03641d24140e)
 
+Bir ağ taraması gerçekleştirin:
+
+![image](https://github.com/user-attachments/assets/834de4e9-f71c-49e0-ad01-1931f6df4991)
+
+Rapor oluşturun:
+
+![image](https://github.com/user-attachments/assets/cdc55f58-02aa-49ea-aa17-ccb11c99adee)
+
+
 
 
 
