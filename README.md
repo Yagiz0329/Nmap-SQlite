@@ -66,6 +66,18 @@
 
 * Daha gelişmiş bir kontrol için CVE (Common Vulnerabilities and Exposures) veritabanı kullanılabilir.
 
+# 6- Rapor Oluşturma (generate_report)
 
+![image](https://github.com/user-attachments/assets/1b90aa7c-44e5-419c-ab05-288446728395)
+
+Tarama Bilgisi:
+* nmap_scans tablosundan hedef IP ve tarama tarihi alınır.
+Host ve Port Bilgileri:
+
+* Her host için açık port sayısı ve kullanılan hizmetler gruplandırılarak alınır.
+Zafiyetlerin Eklenmesi:
+
+* analyze_vulnerabilities metodundan gelen zafiyetler rapora eklenir.
+JSON Formatı: Rapor, kolay okunabilir bir JSON formatında döndürülür.
 
 
