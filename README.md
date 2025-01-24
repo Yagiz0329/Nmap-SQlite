@@ -27,3 +27,13 @@ __init__ Metodu:
 Varsayılan olarak nmap_results.db isimli SQLite veritabanını oluşturur veya bağlanır.
 
 _create_tables metodu çağrılarak gerekli veritabanı tabloları oluşturulur.
+
+# 3- Veritabanı Tablolarının Oluşturulması
+
+![image](https://github.com/user-attachments/assets/f43f7160-dfe4-4c30-98ec-11e7171e16ae)
+
+nmap_scans: Her taramayı kaydeder (Hedef IP, tarama tarihi, tarama tipi).
+
+host_results: Taramada bulunan her ana bilgisayarı (IP adresi, durumu vb.) kaydeder.
+
+port_results: Her ana bilgisayardaki port bilgilerini (port numarası, protokol, durum, hizmet, sürüm) saklar.
