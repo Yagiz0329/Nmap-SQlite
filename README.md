@@ -14,3 +14,16 @@ JSON: Tarama sonuçlarını JSON formatında döndürmek için.
 PANDAS: (Şu an kullanılmamış) İleride veritabanı sonuçlarını veri analizi için kullanabilirsiniz.
 
 TYPING: Yazılımda tür ipuçları sağlamak için
+
+
+# 2- NmapAnalyzer Sınıfının Tanımlanması
+
+![image](https://github.com/user-attachments/assets/319bf243-18f6-41ac-95ec-36134a2fa950)
+
+NmapAnalyzer sınıfı, tüm tarama ve analiz işlemlerini kapsar.
+
+__init__ Metodu:
+
+Varsayılan olarak nmap_results.db isimli SQLite veritabanını oluşturur veya bağlanır.
+
+_create_tables metodu çağrılarak gerekli veritabanı tabloları oluşturulur.
