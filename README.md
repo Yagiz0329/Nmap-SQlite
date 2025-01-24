@@ -72,12 +72,15 @@
 
 Tarama Bilgisi:
 * nmap_scans tablosundan hedef IP ve tarama tarihi alınır.
+
 Host ve Port Bilgileri:
 
 * Her host için açık port sayısı ve kullanılan hizmetler gruplandırılarak alınır.
+
 Zafiyetlerin Eklenmesi:
 
 * analyze_vulnerabilities metodundan gelen zafiyetler rapora eklenir.
+
 JSON Formatı: Rapor, kolay okunabilir bir JSON formatında döndürülür.
 
 
