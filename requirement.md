@@ -18,3 +18,7 @@ Nmap Analyzer, ağ taramaları yapmak, sonuçları bir SQLite veritabanında sak
    ```bash
    git clone https://github.com/kullaniciadi/nmap-analyzer.git
    cd nmap-analyzer
+
+# Gerekli kütüphaneleri yükleyin:
+
+pip install python-nmap pandas
