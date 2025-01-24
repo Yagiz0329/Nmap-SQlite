@@ -2,11 +2,8 @@
 
 # Gerekli Kütüphanelerin İçe Aktarılması
 
-import nmap
-import sqlite3
-import json
-import pandas as pd
-from typing import Dict, List, Any
+![image](https://github.com/user-attachments/assets/ce885720-230f-4acb-8638-d491fdb55927)
+
 
 nmap: Python için Nmap modülü, ağ taramaları yapmak için kullanılıyor.
 sqlite3: Veritabanı işlemleri için SQLite kütüphanesi.
