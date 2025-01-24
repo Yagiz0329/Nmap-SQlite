@@ -5,15 +5,15 @@
 ![image](https://github.com/user-attachments/assets/ce885720-230f-4acb-8638-d491fdb55927)
 
 
--NMAP: Python için Nmap modülü, ağ taramaları yapmak için kullanılıyor.
++NMAP: Python için Nmap modülü, ağ taramaları yapmak için kullanılıyor.
 
--SQLITE3: Veritabanı işlemleri için SQLite kütüphanesi.
++SQLITE3: Veritabanı işlemleri için SQLite kütüphanesi.
 
--JSON: Tarama sonuçlarını JSON formatında döndürmek için.
++JSON: Tarama sonuçlarını JSON formatında döndürmek için.
 
--PANDAS: (Şu an kullanılmamış) İleride veritabanı sonuçlarını veri analizi için kullanabilirsiniz.
++PANDAS: (Şu an kullanılmamış) İleride veritabanı sonuçlarını veri analizi için kullanabilirsiniz.
 
--TYPING: Yazılımda tür ipuçları sağlamak için
++TYPING: Yazılımda tür ipuçları sağlamak için
 
 
 # 2- NmapAnalyzer Sınıfının Tanımlanması
