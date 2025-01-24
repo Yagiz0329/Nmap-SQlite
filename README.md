@@ -1,6 +1,6 @@
 # Nmap-SQlite
 
-1. Gerekli Kütüphanelerin İçe Aktarılması
+# Gerekli Kütüphanelerin İçe Aktarılması
 
 import nmap
 import sqlite3
