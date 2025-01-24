@@ -83,4 +83,10 @@ Zafiyetlerin Eklenmesi:
 
 JSON Formatı: Rapor, kolay okunabilir bir JSON formatında döndürülür.
 
+# 7- Veritabanı Bağlantısını Kapatma
+
+![image](https://github.com/user-attachments/assets/77ca86ad-50f9-4d37-85af-bfea4b250525)
+
+* Veritabanı bağlantısını kapatmak için çağrılır.
+
 
